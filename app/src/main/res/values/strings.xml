@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FaceRecognition</string>
+    <string name="choice_photo">选择照片</string>
+    <string name="take_camera">拍照</string>
+    <string name="gallery">图库</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="submit">提交</string>
+
+</resources>
